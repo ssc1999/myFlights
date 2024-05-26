@@ -14,6 +14,17 @@ pnpm dev
 bun dev
 ```
 
+To start only the backend server:
+```bash
+npm run server
+# or
+yarn run server
+# or
+pnpm run server
+# or
+bun run server
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
